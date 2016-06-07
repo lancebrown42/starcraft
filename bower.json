@@ -1,0 +1,17 @@
+{
+  "name": "Starcraft",
+  "authors": [
+    "WebAppNut <WebAppNut@users.noreply.github.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
